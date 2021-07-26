@@ -57,7 +57,9 @@ These instructions will help you to setup your own copy of react fundamentals on
    $npm install
    ```
 
-3.  ```bash
+3. []{}
+
+ ```bash
    $npm start
    ```
 
